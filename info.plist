@@ -2,19 +2,17 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>name</key>
-	<string>subway-time</string>
 	<key>bundleid</key>
 	<string>com.kevinramsunder.subway-time</string>
 	<key>category</key>
 	<string>Internet</string>
 	<key>connections</key>
 	<dict>
-		<key>8E9ECA66-E2D9-4D52-9267-FB5B8550DCA6</key>
+		<key>1A19AD55-6728-428F-A6B7-0610D2E7DAAF</key>
 		<array>
 			<dict>
 				<key>destinationuid</key>
-				<string>27D8D00E-928D-4E74-82BD-8456ECAE7A61</string>
+				<string>0556EBFF-818E-4DCD-BE5D-A872AB06780B</string>
 				<key>modifiers</key>
 				<integer>0</integer>
 				<key>modifiersubtext</key>
@@ -26,6 +24,8 @@
 	</dict>
 	<key>disabled</key>
 	<false/>
+	<key>name</key>
+	<string>subway-time</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -43,7 +43,7 @@
 			<key>type</key>
 			<string>alfred.workflow.action.openurl</string>
 			<key>uid</key>
-			<string>27D8D00E-928D-4E74-82BD-8456ECAE7A61</string>
+			<string>0556EBFF-818E-4DCD-BE5D-A872AB06780B</string>
 			<key>version</key>
 			<integer>1</integer>
 		</dict>
@@ -52,8 +52,12 @@
 			<dict>
 				<key>alfredfiltersresults</key>
 				<false/>
-				<key>argumenttype</key>
+				<key>alfredfiltersresultsmatchmode</key>
 				<integer>0</integer>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
+				<key>argumenttype</key>
+				<integer>1</integer>
 				<key>escaping</key>
 				<integer>102</integer>
 				<key>keyword</key>
@@ -65,19 +69,19 @@
 				<key>queuedelaymode</key>
 				<integer>0</integer>
 				<key>queuemode</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>runningsubtext</key>
-				<string>Searching...</string>
+				<string></string>
 				<key>script</key>
 				<string>./node_modules/.bin/run-node index.js "$1"</string>
 				<key>scriptargtype</key>
 				<integer>1</integer>
 				<key>scriptfile</key>
-				<string>index.js</string>
+				<string></string>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
-				<string>alfred workflow for nyc mta subway time app</string>
+				<string></string>
 				<key>type</key>
 				<integer>0</integer>
 				<key>withspace</key>
@@ -86,7 +90,7 @@
 			<key>type</key>
 			<string>alfred.workflow.input.scriptfilter</string>
 			<key>uid</key>
-			<string>8E9ECA66-E2D9-4D52-9267-FB5B8550DCA6</string>
+			<string>1A19AD55-6728-428F-A6B7-0610D2E7DAAF</string>
 			<key>version</key>
 			<integer>2</integer>
 		</dict>
@@ -95,19 +99,19 @@
 	<string></string>
 	<key>uidata</key>
 	<dict>
-		<key>27D8D00E-928D-4E74-82BD-8456ECAE7A61</key>
+		<key>0556EBFF-818E-4DCD-BE5D-A872AB06780B</key>
+		<dict>
+			<key>xpos</key>
+			<integer>490</integer>
+			<key>ypos</key>
+			<integer>140</integer>
+		</dict>
+		<key>1A19AD55-6728-428F-A6B7-0610D2E7DAAF</key>
 		<dict>
 			<key>xpos</key>
 			<integer>150</integer>
 			<key>ypos</key>
-			<integer>10</integer>
-		</dict>
-		<key>8E9ECA66-E2D9-4D52-9267-FB5B8550DCA6</key>
-		<dict>
-			<key>xpos</key>
-			<integer>10</integer>
-			<key>ypos</key>
-			<integer>10</integer>
+			<integer>310</integer>
 		</dict>
 	</dict>
 </dict>

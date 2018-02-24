@@ -1,0 +1,6923 @@
+[
+  {
+    "name": "Van Cortlandt Park - 242 St",
+    "id": "101",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "BRONX"
+  },
+  {
+    "name": "238 St",
+    "id": "103",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "BRONX"
+  },
+  {
+    "name": "231 St",
+    "id": "104",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Wakefield - 241 St",
+    "id": "201",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Nereid Av",
+    "id": "204",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "233 St",
+    "id": "205",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "225 St",
+    "id": "206",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "219 St",
+    "id": "207",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Gun Hill Rd",
+    "id": "208",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Burke Av",
+    "id": "209",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Allerton Av",
+    "id": "210",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Pelham Pkwy",
+    "id": "211",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Bronx Park East",
+    "id": "212",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "E 180 St",
+    "id": "213",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "West Farms Sq - E Tremont Av",
+    "id": "214",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "174 St",
+    "id": "215",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Freeman St",
+    "id": "216",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Simpson St",
+    "id": "217",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Intervale Av",
+    "id": "218",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Prospect Av",
+    "id": "219",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Jackson Av",
+    "id": "220",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "3 Av - 149 St",
+    "id": "221",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "149 St - Grand Concourse",
+    "id": "222",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Woodlawn",
+    "id": "401",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Mosholu Pkwy",
+    "id": "402",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Bedford Park Blvd - Lehman College",
+    "id": "405",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Kingsbridge Rd",
+    "id": "406",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Fordham Rd",
+    "id": "407",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "183 St",
+    "id": "408",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Burnside Av",
+    "id": "409",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "176 St",
+    "id": "410",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Mt Eden Av",
+    "id": "411",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "170 St",
+    "id": "412",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "167 St",
+    "id": "413",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "161 St - Yankee Stadium",
+    "id": "414",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "149 St - Grand Concourse",
+    "id": "415",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "138 St - Grand Concourse",
+    "id": "416",
+    "type": "1",
+    "ada": "",
+    "line": "4",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Eastchester - Dyre Av",
+    "id": "501",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Baychester Av",
+    "id": "502",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Gun Hill Rd",
+    "id": "503",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Pelham Pkwy",
+    "id": "504",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Morris Park",
+    "id": "505",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Nereid Av",
+    "id": "204",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "233 St",
+    "id": "205",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "225 St",
+    "id": "206",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "219 St",
+    "id": "207",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Gun Hill Rd",
+    "id": "208",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Burke Av",
+    "id": "209",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Allerton Av",
+    "id": "210",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Pelham Pkwy",
+    "id": "211",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Bronx Park East",
+    "id": "212",
+    "type": "3",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "E 180 St",
+    "id": "213",
+    "type": "0",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "West Farms Sq - E Tremont Av",
+    "id": "214",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "174 St",
+    "id": "215",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Freeman St",
+    "id": "216",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Simpson St",
+    "id": "217",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Intervale Av",
+    "id": "218",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Prospect Av",
+    "id": "219",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Jackson Av",
+    "id": "220",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "3 Av - 149 St",
+    "id": "221",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "149 St - Grand Concourse",
+    "id": "222",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "138 St - Grand Concourse",
+    "id": "416",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Pelham Bay Park",
+    "id": "601",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Buhre Av",
+    "id": "602",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Middletown Rd",
+    "id": "603",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Westchester Sq - E Tremont Av",
+    "id": "604",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Zerega Av",
+    "id": "606",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Castle Hill Av",
+    "id": "607",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Parkchester",
+    "id": "608",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "St Lawrence Av",
+    "id": "609",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Morrison Av- Sound View",
+    "id": "610",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Elder Av",
+    "id": "611",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Whitlock Av",
+    "id": "612",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Hunts Point Av",
+    "id": "613",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Longwood Av",
+    "id": "614",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "E 149 St",
+    "id": "615",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "E 143 St - St Mary's St",
+    "id": "616",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Cypress Av",
+    "id": "617",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Brook Av",
+    "id": "618",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "3 Av - 138 St",
+    "id": "619",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Bedford Park Blvd",
+    "id": "D03",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Kingsbridge Rd",
+    "id": "D04",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Fordham Rd",
+    "id": "D05",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "182-183 Sts",
+    "id": "D06",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Tremont Av",
+    "id": "D07",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "174-175 Sts",
+    "id": "D08",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "170 St",
+    "id": "D09",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "167 St",
+    "id": "D10",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "161 St - Yankee Stadium",
+    "id": "D11",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Norwood - 205 St",
+    "id": "D01",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Bedford Park Blvd",
+    "id": "D03",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Kingsbridge Rd",
+    "id": "D04",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Fordham Rd",
+    "id": "D05",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "182-183 Sts",
+    "id": "D06",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Tremont Av",
+    "id": "D07",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "174-175 Sts",
+    "id": "D08",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "170 St",
+    "id": "D09",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "167 St",
+    "id": "D10",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "161 St - Yankee Stadium",
+    "id": "D11",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "BRONX"
+  },
+  {
+    "name": "Marble Hill - 225 St",
+    "id": "106",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "215 St",
+    "id": "107",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "207 St",
+    "id": "108",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Dyckman St",
+    "id": "109",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "191 St",
+    "id": "110",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "181 St",
+    "id": "111",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "168 St - Washington Hts",
+    "id": "112",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "157 St",
+    "id": "113",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "114",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "137 St - City College",
+    "id": "115",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "116",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St - Columbia University",
+    "id": "117",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cathedral Pkwy",
+    "id": "118",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "119",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "120",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "121",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "79 St",
+    "id": "122",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "123",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "66 St - Lincoln Center",
+    "id": "124",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "125",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "50 St",
+    "id": "126",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq - 42 St",
+    "id": "127",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Penn Station",
+    "id": "128",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "129",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "130",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "18 St",
+    "id": "131",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "132",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Christopher St - Sheridan Sq",
+    "id": "133",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Houston St",
+    "id": "134",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "135",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Franklin St",
+    "id": "136",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "137",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cortlandt St",
+    "id": "138",
+    "type": "0",
+    "ada": "",
+    "status": " -1",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Rector St",
+    "id": "139",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "South Ferry",
+    "id": "142",
+    "type": "0",
+    "ada": "",
+    "line": "1",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "135 St",
+    "id": "224",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "225",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "226",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Central Park North (110 St)",
+    "id": "227",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "120",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "121",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "79 St",
+    "id": "122",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "123",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "66 St - Lincoln Center",
+    "id": "124",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "125",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "50 St",
+    "id": "126",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq - 42 St",
+    "id": "127",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Penn Station",
+    "id": "128",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "129",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "130",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "18 St",
+    "id": "131",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "132",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Christopher St - Sheridan Sq",
+    "id": "133",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Houston St",
+    "id": "134",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "135",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Franklin St",
+    "id": "136",
+    "type": "2",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "137",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Park Pl",
+    "id": "228",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "229",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Wall St",
+    "id": "230",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Harlem - 148 St",
+    "id": "301",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "302",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "135 St",
+    "id": "224",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "225",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "226",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Central Park North (110 St)",
+    "id": "227",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "120",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "123",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq - 42 St",
+    "id": "127",
+    "type": "0",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Penn Station",
+    "id": "128",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "132",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "137",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Park Pl",
+    "id": "228",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "229",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Wall St",
+    "id": "230",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "621",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "622",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "110 St",
+    "id": "623",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "624",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "625",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "626",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "77 St",
+    "id": "627",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "68 St - Hunter College",
+    "id": "628",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St",
+    "id": "629",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "51 St",
+    "id": "630",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand Central - 42 St",
+    "id": "631",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "33 St",
+    "id": "632",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "633",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "634",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St - Union Sq",
+    "id": "635",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Astor Pl",
+    "id": "636",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bleecker St",
+    "id": "637",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Spring St",
+    "id": "638",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "639",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Brooklyn Bridge - City Hall",
+    "id": "640",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "418",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Wall St",
+    "id": "419",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bowling Green",
+    "id": "420",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "621",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "626",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St",
+    "id": "629",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand Central - 42 St",
+    "id": "631",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St - Union Sq",
+    "id": "635",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Brooklyn Bridge - City Hall",
+    "id": "640",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "418",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Wall St",
+    "id": "419",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bowling Green",
+    "id": "420",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "621",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "622",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "110 St",
+    "id": "623",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "624",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "625",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "626",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "77 St",
+    "id": "627",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "68 St - Hunter College",
+    "id": "628",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St",
+    "id": "629",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "51 St",
+    "id": "630",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand Central - 42 St",
+    "id": "631",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "33 St",
+    "id": "632",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "633",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "634",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St - Union Sq",
+    "id": "635",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Astor Pl",
+    "id": "636",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bleecker St",
+    "id": "637",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Spring St",
+    "id": "638",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "639",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Brooklyn Bridge - City Hall",
+    "id": "640",
+    "type": "0",
+    "ada": "",
+    "line": "6",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand Central - 42 St",
+    "id": "723",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "5 Av",
+    "id": "724",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq - 42 St",
+    "id": "725",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - 11 Av",
+    "id": "726",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Inwood - 207 St",
+    "id": "A02",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Dyckman St",
+    "id": "A03",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "190 St",
+    "id": "A05",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "181 St",
+    "id": "A06",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "175 St",
+    "id": "A07",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "168 St",
+    "id": "A09",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "163 St - Amsterdam Av",
+    "id": "A10",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "155 St",
+    "id": "A11",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "A12",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "135 St",
+    "id": "A14",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "A15",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "A16",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cathedral Pkwy (110 St)",
+    "id": "A17",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "A18",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "A19",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "A20",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "81 St - Museum of Natural History",
+    "id": "A21",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "A22",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "A24",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "50 St - 8 Av",
+    "id": "A25",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St - Port Authority Bus Terminal - 8 Av",
+    "id": "A27",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Penn Station - 8 Av",
+    "id": "A28",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St - 8 Av",
+    "id": "A30",
+    "type": "2",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St - 8 Av",
+    "id": "A31",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "West 4 St - 6 Av",
+    "id": "A32",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Spring St - 6 Av",
+    "id": "A33",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St - 6 Av",
+    "id": "A34",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St - Church St",
+    "id": "A36",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St - Broadway",
+    "id": "A38",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "168 St",
+    "id": "A09",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "163 St - Amsterdam Av",
+    "id": "A10",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "155 St",
+    "id": "A11",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "A12",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "135 St",
+    "id": "A14",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "A15",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "A16",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cathedral Pkwy (110 St)",
+    "id": "A17",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "A18",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "A19",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "A20",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "81 St - Museum of Natural History",
+    "id": "A21",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "A22",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "A24",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "50 St - 8 Avenue",
+    "id": "A25",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St - Port Authority Bus Terminal",
+    "id": "A27",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Penn Station",
+    "id": "A28",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "A30",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "A31",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "West 4 St",
+    "id": "A32",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Spring St",
+    "id": "A33",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "A34",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "A36",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "A38",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Avenue / 53 Street",
+    "id": "F11",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "5 Avenue / 53 Street",
+    "id": "F12",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "7 Avenue / 53 Street",
+    "id": "D14",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "50 Street / 8 Avenue",
+    "id": "A25",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 Street- Port Authority Bus Terminal",
+    "id": "A27",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 Street-Penn Station",
+    "id": "A28",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 Street ",
+    "id": "A30",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 Street",
+    "id": "A31",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "West 4 Street",
+    "id": "A32",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Spring Street",
+    "id": "A33",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal Street ",
+    "id": "A34",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "World Trade Center",
+    "id": "E01",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "155 St",
+    "id": "D12",
+    "type": "4",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "D13",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "135 St",
+    "id": "A14",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "A15",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "116 St",
+    "id": "A16",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cathedral Pkwy (110 St)",
+    "id": "A17",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "103 St",
+    "id": "A18",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96 St",
+    "id": "A19",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86 St",
+    "id": "A20",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "81 St - Museum of Natural History",
+    "id": "A21",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72 St",
+    "id": "A22",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "A24",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "7 Av",
+    "id": "D14",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "47-50 Sts - Rockefeller Ctr",
+    "id": "D15",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St - Bryant Pk",
+    "id": "D16",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Herald Sq",
+    "id": "D17",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "W 4 St",
+    "id": "D20",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broadway-Lafayette St",
+    "id": "D21",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand St",
+    "id": "D22",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "155 St",
+    "id": "D12",
+    "type": "1",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "145 St",
+    "id": "D13",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "125 St",
+    "id": "A15",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 St - Columbus Circle",
+    "id": "A24",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "7 Av",
+    "id": "D14",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "47-50 Sts - Rockefeller Ctr",
+    "id": "D15",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St - Bryant Pk",
+    "id": "D16",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Herald Sq",
+    "id": "D17",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "W 4 St",
+    "id": "D20",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broadway-Lafayette St",
+    "id": "D21",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand St",
+    "id": "D22",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Roosevelt Island",
+    "id": "B06",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av/63 St",
+    "id": "B08",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "57 St",
+    "id": "B10",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "47-50 Sts - Rockefeller Ctr",
+    "id": "D15",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St - Bryant Pk",
+    "id": "D16",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St - Herald Sq",
+    "id": "D17",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "D18",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "D19",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "W 4 St",
+    "id": "D20",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broadway-Lafayette St",
+    "id": "D21",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "2 Av",
+    "id": "F14",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Delancey St",
+    "id": "F15",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "East Broadway",
+    "id": "F16",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av-53 St ",
+    "id": "F11",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "5 Av-53 St ",
+    "id": "F12",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "47-50 Sts-Rockefeller Center",
+    "id": "D15",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "42 St-Bryant Park",
+    "id": "D16",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St-Herald Square",
+    "id": "D17",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St ",
+    "id": "D18",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": " 14 St",
+    "id": "D19",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "West 4 St- Wash Sq",
+    "id": "D20",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broadway-Lafayette St",
+    "id": "D21",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Essex St-Delancey St",
+    "id": "M18",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Essex St",
+    "id": "M18",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bowery",
+    "id": "M19",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "M20",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "M21",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "M22",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broad St",
+    "id": "M23",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Essex St",
+    "id": "M18",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Bowery",
+    "id": "M19",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "M20",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Chambers St",
+    "id": "M21",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Fulton St",
+    "id": "M22",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Broad St",
+    "id": "M23",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "8 Av",
+    "id": "L01",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "6 Av",
+    "id": "L02",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Union Sq - 14 St",
+    "id": "L03",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "3 Av",
+    "id": "L05",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "1 Av",
+    "id": "L06",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Grand Central - 42 St",
+    "id": "901",
+    "type": "1",
+    "ada": "",
+    "line": "S",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq - 42 St",
+    "id": "902",
+    "type": "1",
+    "ada": "",
+    "line": "S",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av/ 59 St",
+    "id": "R11",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "5 Av/ 59 St",
+    "id": "R13",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "57 St-7 Avenue",
+    "id": "R14",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "49 St",
+    "id": "R15",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq-42 St",
+    "id": "R16",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St-Herald Sq",
+    "id": "R17",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "R18",
+    "type": "1",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "R19",
+    "type": "1",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St-Union Sq",
+    "id": "R20",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "8 St- NYU",
+    "id": "R21",
+    "type": "1",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Prince St",
+    "id": "R22",
+    "type": "1",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St ",
+    "id": "R23",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "City Hall",
+    "id": "R24",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cortlandt St",
+    "id": "R25",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Rector St",
+    "id": "R26",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Whitehall St",
+    "id": "R27",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "96th St",
+    "id": "Q05",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "86th St",
+    "id": "Q04",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "72nd St",
+    "id": "Q03",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av",
+    "id": "B08",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "57 St",
+    "id": "R14",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "49 St",
+    "id": "R15",
+    "type": "2",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq-42 St",
+    "id": "R15",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St-Herald Sq",
+    "id": "R17",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "R18",
+    "type": "2",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St",
+    "id": "R19",
+    "type": "2",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St",
+    "id": "R20",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "8 St",
+    "id": "R21",
+    "type": "2",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "prince St",
+    "id": "R22",
+    "type": "2",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "R23",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av - 59 St",
+    "id": "R11",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "59 Street - 5th Avenue",
+    "id": "R13",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "57 St - 7 Av",
+    "id": "R14",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "49 Street",
+    "id": "R15",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Square-42 Street",
+    "id": "R16",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 Street-Herald Square",
+    "id": "R17",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 Street",
+    "id": "R18",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 Street",
+    "id": "R19",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St - Union Sq",
+    "id": "R20",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "8 St - NYU",
+    "id": "R21",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Prince St",
+    "id": "R22",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St",
+    "id": "R23",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "City Hall",
+    "id": "R24",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cortlandt St",
+    "id": "R25",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Rector St",
+    "id": "R26",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Whitehall St",
+    "id": "R27",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Lexington Av 59 St",
+    "id": "R11",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "5 Av-59 St",
+    "id": "R13",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "57 St-7 Av",
+    "id": "R14",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "49 St-7 Av",
+    "id": "R15",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Times Sq 42 St",
+    "id": "R16",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "34 St-Herald Sq",
+    "id": "R17",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "28 St",
+    "id": "R18",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "23 St ",
+    "id": "R19",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "14 St-Union Sq",
+    "id": "R20",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "8 St NYU",
+    "id": "R21",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Prince St",
+    "id": "R22",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Canal St ",
+    "id": "R23",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "City Hall ",
+    "id": "R24",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Cortlandt St",
+    "id": "R25",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Rector St",
+    "id": "R26",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Whitehall St-South Ferry",
+    "id": "R27",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "MANHATTAN"
+  },
+  {
+    "name": "Clark St",
+    "id": "231",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Borough Hall",
+    "id": "232",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hoyt St",
+    "id": "233",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nevins St",
+    "id": "234",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "235",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bergen St",
+    "id": "236",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Grand Army Plaza",
+    "id": "237",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Eastern Pkwy - Brooklyn Museum",
+    "id": "238",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "239",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "President St",
+    "id": "241",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sterling St",
+    "id": "242",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Winthrop St",
+    "id": "243",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Av",
+    "id": "244",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Beverly Rd",
+    "id": "245",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Newkirk Av",
+    "id": "246",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flatbush Av - Brooklyn College",
+    "id": "247",
+    "type": "0",
+    "ada": "",
+    "line": "2",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Clark St",
+    "id": "231",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Borough Hall",
+    "id": "232",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hoyt St",
+    "id": "233",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nevins St",
+    "id": "234",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "235",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bergen St",
+    "id": "236",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Grand Army Plaza",
+    "id": "237",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Eastern Pkwy - Brooklyn Museum",
+    "id": "238",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "239",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nostrand Av",
+    "id": "248",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kingston Av",
+    "id": "249",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Crown Hts - Utica Av",
+    "id": "250",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sutter Av - Rutland Rd",
+    "id": "251",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Saratoga Av",
+    "id": "252",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Rockaway Av",
+    "id": "253",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Junius St",
+    "id": "254",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Pennsylvania Av",
+    "id": "255",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "256",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "New Lots Av",
+    "id": "257",
+    "type": "1",
+    "ada": "",
+    "line": "3",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Borough Hall",
+    "id": "423",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nevins St",
+    "id": "234",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "235",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bergen St",
+    "id": "236",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Grand Army Plaza",
+    "id": "237",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Eastern Pkwy - Brooklyn Museum",
+    "id": "238",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "239",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nostrand Av",
+    "id": "248",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kingston Av",
+    "id": "249",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Crown Hts - Utica Av",
+    "id": "250",
+    "type": "0",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sutter Av - Rutland Rd",
+    "id": "251",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Saratoga Av",
+    "id": "252",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Rockaway Av",
+    "id": "253",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Junius St",
+    "id": "254",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Pennsylvania Av",
+    "id": "255",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "256",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "New Lots Av",
+    "id": "257",
+    "type": "2",
+    "ada": "",
+    "line": "4",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Borough Hall",
+    "id": "423",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nevins St",
+    "id": "234",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "235",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "239",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "President St",
+    "id": "241",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sterling St",
+    "id": "242",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Winthrop St",
+    "id": "243",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Av",
+    "id": "244",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Beverly Rd",
+    "id": "245",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Newkirk Av",
+    "id": "246",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flatbush Av - Brooklyn College",
+    "id": "247",
+    "type": "1",
+    "ada": "",
+    "line": "5",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "High St - Cadman Plaza East",
+    "id": "A40",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jay St-MetroTech - Fulton Mal",
+    "id": "A41",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hoyt St - Schermerhorn St",
+    "id": "A42",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Lafayette Av",
+    "id": "A43",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Clinton - Washington Avs",
+    "id": "A44",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "A45",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nostrand Av",
+    "id": "A46",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kingston - Throop Avs",
+    "id": "A47",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Utica Av",
+    "id": "A48",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Ralph Av",
+    "id": "A49",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Rockaway Av",
+    "id": "A50",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway Junction",
+    "id": "A51",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Liberty Av",
+    "id": "A52",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "A53",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sheperd Av",
+    "id": "A54",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Euclid Av",
+    "id": "A55",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Grant Av",
+    "id": "A57",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "High St",
+    "id": "A40",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jay St - MetroTech",
+    "id": "A41",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hoyt - Schermerhorn Sts",
+    "id": "A42",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Lafayette Av",
+    "id": "A43",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Clinton - Washington Avs",
+    "id": "A44",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av",
+    "id": "A45",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nostrand Av",
+    "id": "A46",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kingston - Throop Avs",
+    "id": "A47",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Utica Av",
+    "id": "A48",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Ralph Av",
+    "id": "A49",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Rockaway Av",
+    "id": "A50",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway Jct",
+    "id": "A51",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Liberty Av",
+    "id": "A52",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "A53",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Shepherd Av",
+    "id": "A54",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Euclid Av",
+    "id": "A55",
+    "type": "1",
+    "ada": "",
+    "line": "C",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Greenpoint Avenue",
+    "id": "G26",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Nassau Avenue",
+    "id": "G28",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Metropolitan Avenue",
+    "id": "G29",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway / Union Avenue",
+    "id": "G30",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flushing Avenue",
+    "id": "G31",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle-Willoughby Avenues",
+    "id": "G32",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bedford-Nostrand Avenues",
+    "id": "G33",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Classon Avenue",
+    "id": "G34",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Clinton-Washington Avenues",
+    "id": "G35",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Fulton Street",
+    "id": "G36",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hoyt Street-Schermerhorn Street",
+    "id": "A42",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bergen Street",
+    "id": "F20",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Carroll Street ",
+    "id": "F21",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Smith-9 Streets",
+    "id": "F22",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "4 Avenue/9 Street",
+    "id": "F23",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "7 Avenue",
+    "id": "F24",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "15 Street-Prospect Park",
+    "id": "F25",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Fort Hamilton Parkway",
+    "id": "F26",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Avenue / McDonald",
+    "id": "F27",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "R30",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av - Barclays Ctr",
+    "id": "D24",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "7 Av",
+    "id": "D25",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Park",
+    "id": "D26",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Av",
+    "id": "D28",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Newkirk Plaza",
+    "id": "D31",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kings Hwy",
+    "id": "D35",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sheepshead Bay",
+    "id": "D39",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Brighton Beach",
+    "id": "D40",
+    "type": "1",
+    "ada": "",
+    "line": "B",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "R30",
+    "type": "2",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av - Barclays Ctr",
+    "id": "R31",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Union St",
+    "id": "R32",
+    "type": "2",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "9 St",
+    "id": "R33",
+    "type": "2",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Av",
+    "id": "R34",
+    "type": "2",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "25 St",
+    "id": "R35",
+    "type": "2",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "36 St",
+    "id": "R36",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "9 Av",
+    "id": "B12",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Fort Hamilton Pkwy",
+    "id": "B13",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "50 St",
+    "id": "B14",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "55 St",
+    "id": "B15",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "62 St",
+    "id": "B16",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "71 St",
+    "id": "B17",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "79 St",
+    "id": "B18",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "18 Av",
+    "id": "B19",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "20 Av",
+    "id": "B20",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay Pkwy",
+    "id": "B21",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "25 Av",
+    "id": "B22",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay 50 St",
+    "id": "B23",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Coney Island - Stillwell Av",
+    "id": "D43",
+    "type": "0",
+    "ada": "",
+    "line": "D",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "York St",
+    "id": "F18",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jay St- MetroTech",
+    "id": "A41",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bergen St",
+    "id": "F20",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Carroll St",
+    "id": "F21",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Smith - 9 Sts",
+    "id": "F22",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "4 Avenue/9 Street",
+    "id": "F23",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "7 Av",
+    "id": "F24",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "15 St - Prospect Park",
+    "id": "F25",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Fort Hamilton Pkwy",
+    "id": "F26",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Av",
+    "id": "F27",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Ditmas Av",
+    "id": "F29",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "18 Av",
+    "id": "F30",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue I",
+    "id": "F31",
+    "type": "0",
+    "ada": "",
+    "status": "-3",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay Pkwy",
+    "id": "F32",
+    "type": "0",
+    "ada": "",
+    "status": "-3",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue N",
+    "id": "F33",
+    "type": "0",
+    "ada": "",
+    "status": "-3",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue P",
+    "id": "F34",
+    "type": "0",
+    "ada": "",
+    "status": "-3",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kings Hwy",
+    "id": "F35",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue U",
+    "id": "F36",
+    "type": "0",
+    "ada": "",
+    "status": "-3",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue X",
+    "id": "F38",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Neptune Av",
+    "id": "F39",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "West 8th St/NY Aquarium",
+    "id": "D42",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Coney Island - Stillwell Av",
+    "id": "D43",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Marcy Av ",
+    "id": "M16",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hewes St",
+    "id": "M14",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Lorimer St",
+    "id": "M13",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flushing Av",
+    "id": "M12",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle Ave",
+    "id": "M11",
+    "type": "0",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Central Av",
+    "id": "M10",
+    "type": "0",
+    "ada": "",
+    "status": "-1",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "KnickerbockerAv",
+    "id": "M09",
+    "type": "0",
+    "ada": "",
+    "status": "-1",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle-Wyckoff Avs Avs",
+    "id": "M08",
+    "type": "0",
+    "ada": "",
+    "line": "M",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Cypress Hills",
+    "id": "J19",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Crescent St",
+    "id": "J20",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Norwood Av",
+    "id": "J21",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Cleveland St",
+    "id": "J22",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "J23",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Alabama Av",
+    "id": "J24",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway Jct",
+    "id": "J27",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Chauncey St",
+    "id": "J28",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Halsey St",
+    "id": "J29",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Gates Av",
+    "id": "J30",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kosciuszko St",
+    "id": "J31",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle Av",
+    "id": "M11",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flushing Av",
+    "id": "M12",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Lorimer St",
+    "id": "M13",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Hewes St",
+    "id": "M14",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Marcy Av",
+    "id": "M16",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Crescent St",
+    "id": "J20",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Norwood Av",
+    "id": "J21",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Cleveland St",
+    "id": "J22",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Van Siclen Av",
+    "id": "J23",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Alabama Av",
+    "id": "J24",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway Jct",
+    "id": "J27",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Gates Av",
+    "id": "J30",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle Av",
+    "id": "M11",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Marcy Av",
+    "id": "M16",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bedford Av",
+    "id": "L08",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Lorimer St",
+    "id": "L10",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Graham Av",
+    "id": "L11",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Grand St",
+    "id": "L12",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Montrose Av",
+    "id": "L13",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Morgan Av",
+    "id": "L14",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jefferson St",
+    "id": "L15",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "L16",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Myrtle - Wyckoff Avs",
+    "id": "L17",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Halsey St",
+    "id": "L19",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Wilson Av",
+    "id": "L20",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bushwick Av - Aberdeen St",
+    "id": "L21",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Broadway Jct",
+    "id": "L22",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "L24",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sutter Av",
+    "id": "L25",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Livonia Av",
+    "id": "L26",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "New Lots Av",
+    "id": "L27",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "E 105 St",
+    "id": "L28",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Canarsie - Rockaway Pkwy",
+    "id": "L29",
+    "type": "0",
+    "ada": "",
+    "line": "L",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Franklin Av - Fulton Street",
+    "id": "S01",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Park Place - Franklin Av - Classon Av",
+    "id": "S03",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Botanic Garden - Eastern Pkway - Franklin Av",
+    "id": "S04",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Park - Empire Blvd - Flatbush Av",
+    "id": "D26",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Court St",
+    "id": "R28",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jay St- MetroTech",
+    "id": "R29",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "R30",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av-Barclays Ctr",
+    "id": "R31",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Union St",
+    "id": "R32",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "9 St",
+    "id": "R33",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Av",
+    "id": "R34",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "25 St",
+    "id": "R35",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "36 St",
+    "id": "R36",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "45 St",
+    "id": "R39",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "53 St",
+    "id": "R40",
+    "type": "2",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "59 St",
+    "id": "R41",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "8 Av",
+    "id": "N02",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Fort Hamilton Pkwy",
+    "id": "N03",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "New Utrecht Av",
+    "id": "N04",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "18 Av",
+    "id": "N05",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "20 Av",
+    "id": "N06",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay Pkwy ",
+    "id": "N07",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kings Hwy",
+    "id": "N08",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue U",
+    "id": "N09",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "86 St ",
+    "id": "N10",
+    "type": "0",
+    "ada": "",
+    "status": "-2",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Coney Island",
+    "id": "D43",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "R30",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av",
+    "id": "D24",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "7th Av",
+    "id": "D25",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Park",
+    "id": "D26",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Parkside Av",
+    "id": "D27",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Church Av",
+    "id": "D28",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Beverley Rd",
+    "id": "D29",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Cortelyou Rd",
+    "id": "D30",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Newkirk Av",
+    "id": "D31",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue H",
+    "id": "D32",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue J",
+    "id": "D33",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue M",
+    "id": "D34",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Kings Highway",
+    "id": "D35",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Avenue U",
+    "id": "D37",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Neck Rd",
+    "id": "D38",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Sheepshead Bay",
+    "id": "D39",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Brighton Beach",
+    "id": "D40",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Ocean Parkway",
+    "id": "D41",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "West 8th St/NY Aquarium",
+    "id": "D42",
+    "type": "0",
+    "ada": "",
+    "line": "Q",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Court St",
+    "id": "R28",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Jay St - MetroTech",
+    "id": "R29",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "DeKalb Av",
+    "id": "R30",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Atlantic Av - Barclays Ctr",
+    "id": "R31",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Union St",
+    "id": "R32",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "9 St",
+    "id": "R33",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Prospect Av",
+    "id": "R34",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "25 St",
+    "id": "R35",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "36 St",
+    "id": "R36",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "45 St",
+    "id": "R39",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "53 St",
+    "id": "R40",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "59 St",
+    "id": "R41",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay Ridge Av",
+    "id": "R42",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "77 St",
+    "id": "R43",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "86 St",
+    "id": "R44",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Bay Ridge - 95 St",
+    "id": "R45",
+    "type": "0",
+    "ada": "",
+    "line": "R",
+    "borough": "BROOKLYN"
+  },
+  {
+    "name": "Flushing - Main St",
+    "id": "701",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Mets - Willets Point",
+    "id": "702",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "111 St",
+    "id": "705",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "103 St - Corona Plaza",
+    "id": "706",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Junction Blvd",
+    "id": "707",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "90 St - Elmhurst Av",
+    "id": "708",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "82 St - Jackson Hts",
+    "id": "709",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "74 St - Broadway",
+    "id": "710",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "69 St",
+    "id": "711",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodside - 61 St",
+    "id": "712",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "52 St",
+    "id": "713",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "46 St",
+    "id": "714",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "40 St",
+    "id": "715",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "33 St",
+    "id": "716",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queensboro Plaza",
+    "id": "718",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Court Sq",
+    "id": "719",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Hunters Point Av",
+    "id": "720",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Vernon Blvd - Jackson Av",
+    "id": "721",
+    "type": "0",
+    "ada": "",
+    "line": "7",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "80 St",
+    "id": "A59",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "88 St",
+    "id": "A60",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Rockaway Blvd",
+    "id": "A61",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "104 St",
+    "id": "A63",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "111 St",
+    "id": "A64",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Ozone Park - Lefferts Blvd",
+    "id": "A65",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Aqueduct Racetrack",
+    "id": "H01",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Aqueduct-North Conduit Av",
+    "id": "H02",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Howard Beach-JFK Airport - 159 Av",
+    "id": "H03",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Broad Channel",
+    "id": "H04",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 67 St - Rockaway Freeway",
+    "id": "H06",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 60 St - Rockaway Freeway",
+    "id": "H07",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 44 St - Rockaway Freeway",
+    "id": "H08",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 36 St - Rockaway Freeway",
+    "id": "H09",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 25 St - Rockaway Freeway",
+    "id": "H10",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Far Rockaway-Mott Avenue",
+    "id": "H11",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 90 Street",
+    "id": "H12",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 98 Street",
+    "id": "H13",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 105 Street",
+    "id": "H14",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Rockaway Park - Beach 116 Street",
+    "id": "H15",
+    "type": "0",
+    "ada": "",
+    "line": "A",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jamaica Center - Parsons/Archer",
+    "id": "G05",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Sutphin Blvd/Archer Av/JFK Airport",
+    "id": "G06",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jamaica - Van Wyck",
+    "id": "G07",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Briarwood - Van Wyck Blvd",
+    "id": "F05",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Kew Gardens - Union Tpke",
+    "id": "F06",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "75 Avenue",
+    "id": "F07",
+    "type": "1",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Forest Hills - 71 Av",
+    "id": "G08",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "67 Avenue",
+    "id": "G09",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "63 Drive-Rego Park",
+    "id": "G10",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodhaven Boulevard",
+    "id": "G11",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Grand Avenue-Newtown",
+    "id": "G12",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Elmhurst Avenue",
+    "id": "G13",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jackson Heights-Roosevelt Avenue",
+    "id": "G14",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "65 Street",
+    "id": "G15",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Northern Boulevard",
+    "id": "G16",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "46 Street",
+    "id": "G18",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Steinway Street",
+    "id": "G19",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "36 Street",
+    "id": "G20",
+    "type": "2",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queens Plaza",
+    "id": "G21",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Court Sq-23 St",
+    "id": "F09",
+    "type": "0",
+    "ada": "",
+    "line": "E",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Court Sq",
+    "id": "G22",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "21 Street",
+    "id": "G24",
+    "type": "0",
+    "ada": "",
+    "line": "G",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jamaica - 179 St",
+    "id": "F01",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "169 St",
+    "id": "F02",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Parsons Blvd",
+    "id": "F03",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Sutphin Blvd",
+    "id": "F04",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Briarwood - Van Wyck Blvd",
+    "id": "F05",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Kew Gardens - Union Tpke",
+    "id": "F06",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "75 Av",
+    "id": "F07",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Forest Hills - 71 Av",
+    "id": "G08",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jackson Heights-Roosevelt Avenue",
+    "id": "G14",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "21 Street",
+    "id": "B04",
+    "type": "0",
+    "ada": "",
+    "line": "F",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Forest Hills-71 Av",
+    "id": "G08",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "67 Av",
+    "id": "G09",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "63 Dr-Rego Park",
+    "id": "G10",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodhaven Blvd",
+    "id": "G11",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Grand Av Newtown",
+    "id": "G12",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": " Elmhurst Av",
+    "id": "G13",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jackson Hts-Roosevelt Av",
+    "id": "G14",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "65 St",
+    "id": "G15",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Northern Blvd",
+    "id": "G16",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "46 St",
+    "id": "G18",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Steinway St",
+    "id": "G19",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "36 St",
+    "id": "G20",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queens Plaza ",
+    "id": "G21",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Court Sq-23 St",
+    "id": "F09",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Seneca Av",
+    "id": "M06",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Forest Av",
+    "id": "M05",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Fresh Pond Rd",
+    "id": "M04",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Middle Village-Metropolitan Av",
+    "id": "M01",
+    "type": "1",
+    "ada": "",
+    "line": "M",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jamaica Center - Parsons/Archer",
+    "id": "G05",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Sutphin Blvd - Archer Av - JFK Airport",
+    "id": "G06",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "121 St",
+    "id": "J12",
+    "type": "1",
+    "ada": "",
+    "status": "-2",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "111 St",
+    "id": "J13",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "104 St",
+    "id": "J14",
+    "type": "1",
+    "ada": "",
+    "status": "-2",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodhaven Blvd",
+    "id": "J15",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "85 St - Forest Pkwy",
+    "id": "J16",
+    "type": "0",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "75 St",
+    "id": "J17",
+    "type": "1",
+    "ada": "",
+    "line": "J",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jamaica Center - Parsons/Archer",
+    "id": "G05",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Sutphin Blvd - Archer Av - JFK Airport",
+    "id": "G06",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "121 St",
+    "id": "J12",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "104 St",
+    "id": "J14",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodhaven Blvd",
+    "id": "J15",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "75 St",
+    "id": "J17",
+    "type": "1",
+    "ada": "",
+    "line": "Z",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Broad Channel",
+    "id": "H04",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 90 Street",
+    "id": "H12",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 98 Street",
+    "id": "H13",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Beach 105 Street",
+    "id": "H14",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Rockaway Park - Beach 116 Street",
+    "id": "H15",
+    "type": "0",
+    "ada": "",
+    "line": "S",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Astoria-Ditmars Blvd",
+    "id": "R01",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Astoria Blvd",
+    "id": "R03",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "30 Ave",
+    "id": "R04",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Broadway",
+    "id": "R05",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "36 Av",
+    "id": "R06",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "39 Av",
+    "id": "R08",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queensboro Plaza",
+    "id": "R09",
+    "type": "0",
+    "ada": "",
+    "line": "N",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Forest Hills - 71 Av",
+    "id": "G08",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "67 Av",
+    "id": "G09",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "63 Dr - Rego Park",
+    "id": "G10",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Woodhaven Blvd",
+    "id": "G11",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Grand Av - Newtown",
+    "id": "G12",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Elmhurst Av",
+    "id": "G13",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Jackson Hts - Roosevelt Av",
+    "id": "G14",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "65 St",
+    "id": "G15",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Northern Blvd",
+    "id": "G16",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "46 St",
+    "id": "G18",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Steinway St",
+    "id": "G19",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "36 St",
+    "id": "G20",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queens Plaza",
+    "id": "G21",
+    "type": "1",
+    "ada": "",
+    "line": "R",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Astoria-Ditmars Boulevard",
+    "id": "R01",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Astoria Blvd",
+    "id": "R03",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "30 Av",
+    "id": "R04",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Broadway",
+    "id": "R05",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "36 Av",
+    "id": "R06",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "39 Av",
+    "id": "R08",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "Queensboro Plaza",
+    "id": "R09",
+    "type": "1",
+    "ada": "",
+    "line": "W",
+    "borough": "QUEENS"
+  },
+  {
+    "name": "St. George",
+    "id": "S31",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Tompkinsville",
+    "id": "S30",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Stapleton",
+    "id": "S29",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Clifton",
+    "id": "S28",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Grasmere",
+    "id": "S27",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Old Town",
+    "id": "S26",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Dongan Hills",
+    "id": "S25",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Jefferson Avenue",
+    "id": "S24",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Grant City",
+    "id": "S23",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "New Dorp",
+    "id": "S22",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Oakwood Heights",
+    "id": "S21",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Bay Terrace",
+    "id": "S20",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Great Kills",
+    "id": "S19",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Eltingville",
+    "id": "S18",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Annadale",
+    "id": "S17",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Huguenot",
+    "id": "S16",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Prince's Bay",
+    "id": "S15",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Pleasant Plains",
+    "id": "S14",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Richmond Valley",
+    "id": "S13",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Arthur Kill",
+    "id": "S11",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  },
+  {
+    "name": "Tottenville",
+    "id": "S09",
+    "type": "0",
+    "ada": "",
+    "line": "SIR",
+    "borough": "STATEN ISLAND"
+  }
+]
